@@ -1,4 +1,4 @@
 Flask
 google-cloud-vision
 openpyxl
-gunicorn app:app
+gunicorn
